@@ -1,3 +1,4 @@
-# Commix Project - Community Health Files
+# Commix Project — `.github`
 
-This repository contains shared community health files that support consistent collaboration across the Commix Project organization’s repositories.
+This repository holds the **[organization profile README](profile/README.md)**, shown on
+[github.com/commixproject](https://github.com/commixproject). It carries no other shared files.
