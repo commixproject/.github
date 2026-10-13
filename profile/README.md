@@ -10,7 +10,7 @@ The **Commix Project** brings together the official tool, testbed, website, and 
 
   2. **[Commix-testbed](https://github.com/commixproject/commix-testbed)**: A collection of intentionally vulnerable web applications for testing, validating, and researching command injection vulnerabilities and exploitation techniques.
 
-  3. **[Commix website](https://commixproject.com/)**: The official project website, providing project information, and related resources.
+  3. **[Commix website](https://github.com/commixproject/commixproject.github.io)**: The source repository for the official website, providing project information and related resources.
 
 ## Contributing
 
