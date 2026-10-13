@@ -2,28 +2,22 @@
   <img alt="CommixProject" src="https://commixproject.com/images/logo-header.png" height="120" />
 </p>
 
-The **Commix Project** is an open-source security project focused on automated OS command injection testing and exploitation, research, and security testing environments.
-
 ## Projects
 
-### [Commix](https://github.com/commixproject/commix)
-An automated, all-in-one OS command injection exploitation tool. Commix helps security researchers and penetration testers identify and assess command injection vulnerabilities in web applications.
+The **Commix Project** brings together the official tool, testbed, website, and related resources.
 
-- [Source code](https://github.com/commixproject/commix)
-- [Documentation & Wiki](https://github.com/commixproject/commix/wiki)
-- [Releases](https://github.com/commixproject/commix/releases)
-- [Issue tracker](https://github.com/commixproject/commix/issues)
+  1. **[Commix](https://github.com/commixproject/commix)**: The main repository, containing the source code of the tool.
 
-### [Commix Testbed](https://github.com/commixproject/commix-testbed)
-A collection of vulnerable web application environments for testing, validating, and researching OS command injection techniques.
+  2. **[Commix-testbed](https://github.com/commixproject/commix-testbed)**: A collection of intentionally vulnerable web applications for testing, validating, and researching command injection vulnerabilities and exploitation techniques.
 
-### [Official Website](https://commixproject.com/)
-Project information, resources, and links to the Commix ecosystem.
+  3. **[Commix website](https://commixproject.com/)**: The official project website, providing project information, and related resources.
 
 ## Contributing
 
-Contributions, bug reports, feature requests, and documentation improvements are welcome. Please refer to the contribution guidelines of the relevant repository before submitting changes.
+Contributions, bug reports, feature requests, and documentation improvements are welcome. 
+> [!NOTE]
+> Please refer to the contribution guidelines of the relevant repository before submitting changes.
 
 ## License
 
-Commix is distributed under the [GNU General Public License v3.0](https://github.com/commixproject/commix/blob/master/LICENSE).
+**Commix Project** is distributed under the [GNU General Public License v3.0](https://github.com/commixproject/commix/blob/master/LICENSE).
