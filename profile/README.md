@@ -12,6 +12,7 @@ documentation tying them together. Development traces back to 2014.
 |---|---|
 | [commix](https://github.com/commixproject/commix) | The tool itself - detects and exploits command/code injection, from proof to shell. |
 | [commix-testbed](https://github.com/commixproject/commix-testbed) | Intentionally vulnerable applications the tool is built and validated against. |
+| [commix-to-burp](https://github.com/commixproject/commix-to-burp) | Bridges commix and Burp Suite for command injection testing. |
 | [commixproject.github.io](https://github.com/commixproject/commixproject.github.io) | Source of [commixproject.com](https://commixproject.com) and its documentation. |
 
 ## Learn more
