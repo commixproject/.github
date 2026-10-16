@@ -2,7 +2,7 @@
   <img alt="CommixProject" src="https://commixproject.com/images/logo-header.png" height="120" />
 </p>
 
-**Commix Project** is an open source effort around **command injection**: detecting it, exploiting
+**Commix Project** turns **command injection** from theory to proof: detecting it, exploiting
 it, and understanding it - the tool, a testbed to validate findings against, and the research and
 documentation tying them together. Development traces back to 2014.
 
