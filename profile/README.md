@@ -10,15 +10,10 @@ documentation tying them together. Development traces back to 2014.
 
 | Repository | Role |
 |---|---|
-| [commix](https://github.com/commixproject/commix) | The tool itself - detects and exploits command/code injection, from proof to shell. |
-| [commix-testbed](https://github.com/commixproject/commix-testbed) | Intentionally vulnerable applications the tool is built and validated against. |
-| [commix-to-burp](https://github.com/commixproject/commix-to-burp) | Bridges commix and Burp Suite for command injection testing. |
-| [commixproject.github.io](https://github.com/commixproject/commixproject.github.io) | Source of [commixproject.com](https://commixproject.com) and its documentation. |
-
-## Learn more
-
-* [Wiki / user's manual](https://github.com/commixproject/commix/wiki) - usage, techniques, filter bypasses, etc.
-* [Changelog](https://github.com/commixproject/commix/blob/master/doc/CHANGELOG.md) - what's new.
+| [commix](https://github.com/commixproject/commix) | The tool itself - detects and exploits command injection, from first hint to a working shell. |
+| [commix-testbed](https://github.com/commixproject/commix-testbed) | Intentionally vulnerable targets commix is built and tested against. |
+| [commix-to-burp](https://github.com/commixproject/commix-to-burp) | Brings commix’s exploitation into Burp Suite. |
+| [commixproject.github.io](https://github.com/commixproject/commixproject.github.io) | Source behind [commixproject.com](https://commixproject.com) and its documentation. |
 
 ## Contributing
 
