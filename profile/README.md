@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="CommixProject" src="https://github.com/user-attachments/assets/244b3d3d-0841-4ffe-bba0-e45b90e14305" />
+  <img alt="CommixProject" src="https://commixproject.com/images/logo-header.png" height="120" />
 </p>
 
 **Commix Project** turns **command injection** from theory to proof: detecting it, exploiting
